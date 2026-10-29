@@ -2,7 +2,7 @@
 
 # Reimbursement Portal
 
-A comprehensive web application designed to streamline and automate the reimbursement process for Chandigarh University students participating in competitions and events. This platform provides an efficient way for students to submit reimbursement requests and for administrators to manage these requests.
+A comprehensive web application designed to streamline and automate the reimbursement process for BIT students participating in competitions and events. This platform provides an efficient way for students to submit reimbursement requests and for administrators to manage these requests.
 
 ## 🌟 Features
 
@@ -148,7 +148,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
-- Chandigarh University for the opportunity to develop this solution
+- BIT for the opportunity to develop this solution
 - All contributors who have helped to improve this project
 - Open source community for the amazing tools and libraries
 
